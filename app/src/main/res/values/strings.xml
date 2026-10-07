@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Food Recommender</string>
+    <string name="title">Dishes</string>
+    <string name="privacy_notice">Preferences stay on this device. Dishes are a fixed on-device list. This app does not use the network or your location.</string>
+    <string name="search_hint">Search dishes</string>
+    <string name="diet_any">Any</string>
+    <string name="diet_vegetarian">Vegetarian</string>
+    <string name="diet_vegan">Vegan</string>
+    <string name="diet_gluten_free">Gluten-free</string>
+    <string name="empty">No dishes match.</string>
+    <string name="loading">Loading dishes</string>
+    <string name="load_failed">Couldn\'t load dishes.</string>
+    <string name="save_failed">Couldn\'t save your preference on this device.</string>
+    <string name="note_hint">Kitchen note</string>
+    <string name="save_note">Save note</string>
+    <string name="no_diet_tags">No diet tags</string>
+    <string name="dish_row_description">%1$s, %2$s</string>
+</resources>
